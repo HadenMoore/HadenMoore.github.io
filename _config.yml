@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: My Portfolio
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A box of my work.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Haden Moore
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,19 +68,19 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
+  email: "hadens.moore@gmail.com"
+  facebook: HadenSMoore
+  github: HadenMoore
+  twitter: HadenMoore
+  reddit: HadenMoore
+  linkedin: HadenMoore
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+  stackoverflow: "11765852/haden-moore"
+  snapchat: HadenM03
+  instagram: HadenMoore
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +14238275386
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
